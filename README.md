@@ -3,6 +3,13 @@
 Bruteforce A5-A6 numeric password with ease.
 </p>
 
+# My Setup
+Working fine with 
+Linux mint 22.3 xfce usb boot
+Iphone 5c
+
+i didnt tried with other devices
+
 # Prerequsites
 
 1. A computer running macOS or Linux (x86_64).
